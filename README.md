@@ -119,11 +119,11 @@
 
   The Power BI dashboard provides:
 
-    * 📈 Revenue Trend Analysis
-    * 🧑‍🤝‍🧑 Customer Segmentation
-    * 📊 Category-Level Insights
-    * 📌 Key KPI Summary
-    * The dashboard enables stakeholders to quickly identify growth opportunities and performance gaps.
+  * 📈 Revenue Trend Analysis
+  * 🧑‍🤝‍🧑 Customer Segmentation
+  * 📊 Category-Level Insights
+  * 📌 Key KPI Summary
+  * The dashboard enables stakeholders to quickly identify growth opportunities and performance gaps.
     <img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/959ecf0d-9684-4258-8039-2ed888034d9f" />
 
 
