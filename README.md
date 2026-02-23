@@ -6,134 +6,134 @@
 
 2. Dataset
 
-  Source: Publicly available dataset ([Customer DataSet](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv))
+   * Source: Publicly available dataset ([Customer DataSet](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv))
 
-  Format: CSV
+   * Format: CSV
 
-  Size: 3900 rows and 18 columns
+   * Size: 3900 rows and 18 columns
 
-  Key Features:
+    Key Features:
 
-  Customer demographics
+   * Customer demographics
+  
+   * Transaction details
+  
+   * Product categories
 
-  Transaction details
+   * Revenue metrics
 
-  Product categories
+   * Review ratings
 
-  Revenue metrics
-
-  Review ratings
-
-  The dataset was used to analyze trends in customer behavior, revenue performance, and category-level insights.
+   The dataset was used to analyze trends in customer behavior, revenue performance, and category-level insights.
 
 3. Tools & Technologies
 
-  Python – Data loading, cleaning, and EDA
+   * Python – Data loading, cleaning, and EDA
 
-  Pandas
+   * Pandas
 
-  NumPy
+   * NumPy
 
-  PostgreSQL 
+   * PostgreSQL 
 
-  SQLAlchemy & Psycopg2
+   * SQLAlchemy & Psycopg2
 
-  Power BI 
+   * Power BI 
 
-  Microsoft PowerPoint 
+   * Microsoft PowerPoint 
 
 4. Project Workflow
   Step 1: Data Loading
 
-    Imported dataset using Pandas.
+   * Imported dataset using Pandas.
 
-    Connected to PostgreSQL using SQLAlchemy.
+   * Connected to PostgreSQL using SQLAlchemy.
 
-    Loaded cleaned data into PostgreSQL database.
+   * Loaded cleaned data into PostgreSQL database.
 
   Step 2: Exploratory Data Analysis (EDA)
 
-    Analyzed distributions and trends.
+   * Analyzed distributions and trends.
 
-    Identified missing values and outliers.
+   * Identified missing values and outliers.
 
-    Studied customer segments and revenue patterns.
+   * Studied customer segments and revenue patterns.
 
-    Step 3: Data Cleaning
+  Step 3: Data Cleaning
 
-    Handled missing values using statistical imputation.
+   * Handled missing values using statistical imputation.
 
-    Standardized column formats and data types.
+   * Standardized column formats and data types.
 
-    Removed duplicates and inconsistent records.
+   * Removed duplicates and inconsistent records.
 
-    Created derived columns for better analysis.
+   * Created derived columns for better analysis.
 
   Step 4: SQL Analysis
 
-    Wrote optimized SQL queries using:
+   * Wrote optimized SQL queries using:
 
-    GROUP BY
+   * GROUP BY
 
-    CTEs
+   * CTEs
 
-    Window functions
+   * Window functions
 
     Extracted KPIs such as:
 
-    Total Revenue
+   * Total Revenue
 
-    Average Order Value
+   * Average Order Value
 
-    + Customer Retention
+   * Customer Retention
 
-    + Category-wise Performance
+   * Category-wise Performance
 
   Step 5: Dashboard Creation
 
-    Built an interactive dashboard including:
+  Built an interactive dashboard including:
 
-    + Revenue trends
+  * Revenue trends
   
-    + Category performance
+  * Category performance
 
-    + Customer segmentation
+  * Customer segmentation
 
-    + KPI cards
+  * KPI cards
 
-    + Enabled filtering by  shipping type,category, and customer type.
+  * Enabled filtering by  shipping type,category, and customer type.
 
   Step 6: Reporting & Presentation
 
-    Created a structured business report summarizing:
+  Created a structured business report summarizing:
 
-    + Key findings
+  * Key findings
 
-    + Insights
+  * Insights
 
   Recommendations
 
-    Designed a professional PowerPoint presentation.
+  Designed a professional PowerPoint presentation.
   
   5. Dashboard
 
-    The Power BI dashboard provides:
+  The Power BI dashboard provides:
 
-    + 📈 Revenue Trend Analysis
-    + 🧑‍🤝‍🧑 Customer Segmentation
-    + 📊 Category-Level Insights
-    + 📌 Key KPI Summary
-    + The dashboard enables stakeholders to quickly identify growth opportunities and performance gaps.
+    * 📈 Revenue Trend Analysis
+    * 🧑‍🤝‍🧑 Customer Segmentation
+    * 📊 Category-Level Insights
+    * 📌 Key KPI Summary
+    * The dashboard enables stakeholders to quickly identify growth opportunities and performance gaps.
     <img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/959ecf0d-9684-4258-8039-2ed888034d9f" />
 
 
   6. Key Results & Insights
 
-    + Identified top-performing product categories.
+    * Identified top-performing product categories.
 
-    + Detected customer segments contributing highest revenue.
+    * Detected customer segments contributing highest revenue.
 
-    + Highlighted seasonal revenue patterns.
+    * Highlighted seasonal revenue patterns.
 
-    + Recommended strategies for improving retention and sales performance.
+    * Recommended strategies for improving retention and sales performance.
   
